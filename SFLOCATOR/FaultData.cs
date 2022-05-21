@@ -9,7 +9,6 @@ namespace SFLOCATOR
 {
     public class FaultData
     {
-        //Properties
         public Complex L1Current { get; set; }
         public Complex L2Current { get; set; }
         public Complex L3Current { get; set; }
@@ -19,7 +18,6 @@ namespace SFLOCATOR
         public Complex L2Voltage { get; set; }
         public Complex L3Voltage { get; set; }
 
-        //Constructor
         public FaultData(double l1CurrentMag, double l2CurrentMag, double l3CurrentMag, double nCurrentMag, double l1CurrentArg, double l2CurrentArg, double l3CurrentArg, double nCurrentArg, double l1VoltageMag, double l2VoltageMag, double l3VoltageMag, double l1VoltageArg, double l2VoltageArg, double l3VoltageArg)
         {
             L1Current = Complex.FromPolarCoordinates(l1CurrentMag, l1CurrentArg * Math.PI / 180);
