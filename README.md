@@ -1,5 +1,5 @@
 # Simple Fault Locator
-#### Video Demo:  <URL https://www.youtube.com/watch?v=zI4NqnP_fPM>
+#### Video Demo: https://www.youtube.com/watch?v=zI4NqnP_fPM
 #### Description: A simple fault locator to estimate the distance to a fault on a transmission line
 ## Introduction
 HV transmission lines are like highways that carry power across countries and cities.
