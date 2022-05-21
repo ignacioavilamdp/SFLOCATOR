@@ -1,0 +1,14 @@
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\bin\Release\SFLOCATOR.exe.config
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\bin\Release\SFLOCATOR.exe
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\bin\Release\SFLOCATOR.pdb
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\bin\Release\MathNet.Numerics.dll
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\bin\Release\MathNet.Numerics.xml
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\obj\Release\SFLOCATOR.csproj.AssemblyReference.cache
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\obj\Release\SFLOCATOR.FrmLocator.resources
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\obj\Release\SFLOCATOR.FrmResults.resources
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\obj\Release\SFLOCATOR.Properties.Resources.resources
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\obj\Release\SFLOCATOR.csproj.GenerateResource.cache
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\obj\Release\SFLOCATOR.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\obj\Release\SFLOCATOR.csproj.CopyComplete
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\obj\Release\SFLOCATOR.exe
+C:\Users\Ignacio\source\repos\SFLOCATOR\SFLOCATOR\obj\Release\SFLOCATOR.pdb
