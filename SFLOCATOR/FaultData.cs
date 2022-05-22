@@ -13,7 +13,6 @@ namespace SFLOCATOR
         public Complex L2Current { get; set; }
         public Complex L3Current { get; set; }
         public Complex NCurrent { get; set; }
-
         public Complex L1Voltage { get; set; }
         public Complex L2Voltage { get; set; }
         public Complex L3Voltage { get; set; }

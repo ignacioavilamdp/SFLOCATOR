@@ -8,7 +8,6 @@ namespace SFLOCATOR
 {
     public class FaultResults
     {
-        //Properties
         public LoopResults L1toGround { get; set; }
         public LoopResults L2toGround { get; set; }
         public LoopResults L3toGround { get; set; }
@@ -16,7 +15,6 @@ namespace SFLOCATOR
         public LoopResults L2toL3 { get; set; }
         public LoopResults L3toL1 { get; set; }
 
-        //Constructor
         public FaultResults(LoopResults resultL1G, LoopResults resultL2G, LoopResults resultL3G, LoopResults resultL1L2, LoopResults resultL2L3, LoopResults resultL3L1)
         {
             L1toGround = resultL1G;
